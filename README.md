@@ -9,7 +9,7 @@ Get the latest version from **[Releases](https://github.com/BEAMevents/BEAMdispl
 
 - **Mac (Apple Silicon): BEAMdisplay-x.y.z.dmg**: open it and drag BEAMdisplay to Applications. It updates itself from then on.
 
-The app isn't notarized yet. The first time, open it, click **Done**, then go to System Settings → Privacy & Security and click **Open Anyway**.
+The app is signed and notarized by Apple (from version 1.9.14), so it opens with a normal double-click.
 
 ## Updates
 BEAMdisplay checks for updates in the background and shows **Update x.y.z ready** in its header. Click it (or the version number), then **Install & Restart**. You can also use **BEAMdisplay → Check for Updates…**.
